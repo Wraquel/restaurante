@@ -23,7 +23,7 @@
 .app__chef-sign p:first-child{
     font-family: var(--font-base);
     font-weight: 400;
-    font-size: 32px;
+    font-size: 33px;
     letter-spacing: 0.04em;
     line-height: 41px;
     text-transform: capitalize;
